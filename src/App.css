@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.a{
+  text-size-adjust: 100%;
+  font-weight: 1000;
+  text-align: center;
+  font-size: xx-large;
+  color: rgb(127, 255, 138);
+
+}
+.c{
+  
+  text-size-adjust: 100%;
+  font-weight: bold;
+  color: black;
+}
+/*.d{
+  text-decoration-color: aquamarine;
+  background-color: black;
+  text-size-adjust: 100%;
+  font-weight: bold;
+  color: rgb(241, 255, 240);
+}*/
